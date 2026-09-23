@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/surabhi-04/Data-Structures/tree/master/0119-pascals-triangle-ii) |
+| [0217-contains-duplicate](https://github.com/surabhi-04/Data-Structures/tree/master/0217-contains-duplicate) |
 ## String Matching
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/surabhi-04/Data-Structures/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/surabhi-04/Data-Structures/tree/master/0217-contains-duplicate) |
 ## Database
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/surabhi-04/Data-Structures/tree/master/0191-number-of-1-bits) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/surabhi-04/Data-Structures/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
