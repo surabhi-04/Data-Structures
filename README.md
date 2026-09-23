@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/surabhi-04/Data-Structures/tree/master/0232-implement-queue-using-stacks) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/surabhi-04/Data-Structures/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -146,10 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/surabhi-04/Data-Structures/tree/master/0404-sum-of-left-leaves) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/surabhi-04/Data-Structures/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/surabhi-04/Data-Structures/tree/master/0404-sum-of-left-leaves) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/surabhi-04/Data-Structures/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
