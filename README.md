@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/surabhi-04/Data-Structures/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/surabhi-04/Data-Structures/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/surabhi-04/Data-Structures/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/surabhi-04/Data-Structures/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/surabhi-04/Data-Structures/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/surabhi-04/Data-Structures/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/surabhi-04/Data-Structures/tree/master/0219-contains-duplicate-ii) |
+| [0383-ransom-note](https://github.com/surabhi-04/Data-Structures/tree/master/0383-ransom-note) |
 ## Database
 |  |
 | ------- |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/surabhi-04/Data-Structures/tree/master/0374-guess-number-higher-or-lower) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/surabhi-04/Data-Structures/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
