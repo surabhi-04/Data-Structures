@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/surabhi-04/Data-Structures/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/surabhi-04/Data-Structures/tree/master/0392-is-subsequence) |
 ## Linked List
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/surabhi-04/Data-Structures/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/surabhi-04/Data-Structures/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
