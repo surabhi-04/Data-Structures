@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/surabhi-04/Data-Structures/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/surabhi-04/Data-Structures/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/surabhi-04/Data-Structures/tree/master/0401-binary-watch) |
 ## Sorting
 |  |
 | ------- |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/surabhi-04/Data-Structures/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/surabhi-04/Data-Structures/tree/master/0387-first-unique-character-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/surabhi-04/Data-Structures/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
