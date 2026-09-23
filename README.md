@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/surabhi-04/Data-Structures/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/surabhi-04/Data-Structures/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/surabhi-04/Data-Structures/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/surabhi-04/Data-Structures/tree/master/0367-valid-perfect-square) |
 ## Simulation
 |  |
 | ------- |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/surabhi-04/Data-Structures/tree/master/0258-add-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/surabhi-04/Data-Structures/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
