@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/surabhi-04/Data-Structures/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/surabhi-04/Data-Structures/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/surabhi-04/Data-Structures/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/surabhi-04/Data-Structures/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/surabhi-04/Data-Structures/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/surabhi-04/Data-Structures/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/surabhi-04/Data-Structures/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/surabhi-04/Data-Structures/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sorting
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/surabhi-04/Data-Structures/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/surabhi-04/Data-Structures/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/surabhi-04/Data-Structures/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/surabhi-04/Data-Structures/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
 |  |
 | ------- |
