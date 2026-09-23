@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/surabhi-04/Data-Structures/tree/master/0219-contains-duplicate-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/surabhi-04/Data-Structures/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1184-distance-between-bus-stops](https://github.com/surabhi-04/Data-Structures/tree/master/1184-distance-between-bus-stops) |
+| [1929-concatenation-of-array](https://github.com/surabhi-04/Data-Structures/tree/master/1929-concatenation-of-array) |
 ## String Matching
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/surabhi-04/Data-Structures/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/surabhi-04/Data-Structures/tree/master/0415-add-strings) |
+| [1929-concatenation-of-array](https://github.com/surabhi-04/Data-Structures/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
